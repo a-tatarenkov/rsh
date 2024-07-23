@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.c3de902b.css",
-    "main.js": "/react-gh-pages/static/js/main.5aa27119.js",
-    "static/media/bird-colorful-logo-gradient-vector_343694-1365.avif": "/react-gh-pages/static/media/bird-colorful-logo-gradient-vector_343694-1365.5f7b8c1d53a989c6288f.avif",
-    "index.html": "/react-gh-pages/index.html",
-    "main.c3de902b.css.map": "/react-gh-pages/static/css/main.c3de902b.css.map",
-    "main.5aa27119.js.map": "/react-gh-pages/static/js/main.5aa27119.js.map"
+    "main.css": "/rsh/static/css/main.c3de902b.css",
+    "main.js": "/rsh/static/js/main.9e557efa.js",
+    "static/media/bird-colorful-logo-gradient-vector_343694-1365.avif": "/rsh/static/media/bird-colorful-logo-gradient-vector_343694-1365.5f7b8c1d53a989c6288f.avif",
+    "index.html": "/rsh/index.html",
+    "main.c3de902b.css.map": "/rsh/static/css/main.c3de902b.css.map",
+    "main.9e557efa.js.map": "/rsh/static/js/main.9e557efa.js.map"
   },
   "entrypoints": [
     "static/css/main.c3de902b.css",
-    "static/js/main.5aa27119.js"
+    "static/js/main.9e557efa.js"
   ]
 }
