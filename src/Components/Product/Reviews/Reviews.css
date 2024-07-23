@@ -1,0 +1,14 @@
+.Reviews {
+    margin: 30px 0 0 0;
+}
+.Reviews .container .navigate {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.Reviews .container .navigate input {
+    margin: 10px 0;
+}
+.Reviews .container .navigate button {
+    padding: 10px;
+}
